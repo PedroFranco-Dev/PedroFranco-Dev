@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hello There ! 🎈
 
-<!--
-**PedroFranco-Dev/PedroFranco-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Hey friend 👋, I'm Pedro, a programming enthusiast, looking for new knowledge and skills. Welcome to my profile !]
 
-Here are some ideas to get you started:
+## Skills and Tools 🚀
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,git,github)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learning 🌱 
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+
+## Send me a message 📫
+
+- [My Linkedin](www.linkedin.com/in/pedro-da-silva-franco-dev1)
+- [My Email](pedrofranco.dev1@gmail.com)
+
+## My Github Status 📊
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroFranco-Dev)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## My Hobbies 🎨
+
+<a href="https://steamcommunity.com/profiles/76561198377347213/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png" alt="Icone Steam" width="75" height="75">
+</a>
+
