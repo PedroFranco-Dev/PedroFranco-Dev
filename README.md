@@ -15,7 +15,9 @@ Hey friend 👋, I'm Pedro, a programming enthusiast, looking for new knowledge 
 
 ## My Github Status 📊
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroFranco-Dev)](https://github.com/anuraghazra/github-readme-stats)
+[![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroFranco-Dev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFranco-Dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## My Hobbies 🎨
