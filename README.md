@@ -1,6 +1,6 @@
 # Hello There ! 🎈
 
-[Hey friend 👋, I'm Pedro, a programming enthusiast, looking for new knowledge and skills. Welcome to my profile !]
+Hey friend 👋, I'm Pedro, a programming enthusiast, looking for new knowledge and skills. Welcome to my profile !.
 
 ## Skills and Tools 🚀
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,git,github)](https://skillicons.dev)
