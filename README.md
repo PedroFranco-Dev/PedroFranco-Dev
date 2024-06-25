@@ -23,6 +23,10 @@ Hey friend 👋, I'm Pedro, a programming enthusiast, looking for new knowledge 
 ## My Hobbies 🎨
 
 <a href="https://steamcommunity.com/profiles/76561198377347213/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png" alt="Icone Steam" width="75" height="75">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png" alt="Icone Steam" width="50" height="50">
 </a>
+<a href="https://open.spotify.com/user/predufranco">
+  <img src="https://user-images.githubusercontent.com/33750251/59486049-ec63fa80-8e6f-11e9-8d17-9a31324a63e8.png" alt="Icone S" width="50" height="50">
+</a>
+
 
